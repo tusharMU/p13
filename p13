@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "one piece",
+    "description": "One Piece follows Monkey D. Luffy, a cheerful and determined pirate with a rubber-like body, as he sails the Grand Line with his crew, the Straw Hat Pirates. Their goal is to find the legendary One Piece treasure and make Luffy the Pirate King. Along the way, they face powerful enemies, uncover world-shaking secrets, and form unbreakable bonds. This adventure blends action, humor, and deep emotional moments.",
+  },
+  {
+    "id": 2,
+    "name": "naruto",
+    "description": "Naruto tells the story of Naruto Uzumaki, an orphaned ninja with a dream of becoming the Hokage, the strongest ninja and leader of his village. Struggling to gain respect due to the demon fox sealed within him, Naruto perseveres with his fiery determination and unyielding spirit. The series explores friendship, rivalry, and overcoming personal demons, blending intense battles with heartfelt drama.",
+  },
+  {
+    "id": 3,
+    "name": "bleach",
+    "description": "Bleach revolves around Ichigo Kurosaki, a teenager who accidentally gains the powers of a Soul Reaper, a guardian of the living and the dead. With his new abilities, he battles evil spirits known as Hollows, protects his friends, and uncovers mysteries surrounding the afterlife. The series is known for its stylish battles, unique characters, and complex lore about the spiritual world.",
+  },
+  {
+    "id": 4,
+    "name": "Dragon ball Z",
+    "description": "Dragon Ball Z continues the adventures of Goku, an extraordinary martial artist with superhuman abilities, as he defends Earth against powerful foes. Joined by allies like Vegeta, Gohan, and Piccolo, he battles threats ranging from alien invaders to god-like beings. The series features iconic transformations, epic battles, and themes of growth, sacrifice, and perseverance.",
+  },
+  {
+    "id": 5,
+    "name": "demon slayer",
+    "description": "Demon Slayer follows Tanjiro Kamado, a kind-hearted boy who becomes a demon slayer to avenge his family and cure his sister Nezuko, who has been turned into a demon. Set in a beautifully depicted Taisho-era Japan, the story combines intense sword-fighting action, emotional depth, and stunning visuals as Tanjiro faces a harrowing journey against terrifying demons.",
+  }
+]
